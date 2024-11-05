@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS programming
 - 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on iOS programming learning process
-- 📫 Please contact me via https://github.com/DucThang311/DucThang311
+- 📫 Please contact me via github.com/DucThang311
 
 
 
